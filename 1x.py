@@ -16,7 +16,7 @@ def get_image(src):
             start = i
             for x in range(i,len(src)):
                 if src[x:x+7] == '-sq.jpg':
-                    return src[i+22:x]+"-sd.jpg"
+                    return src[i+22:x]+"-hd2.jpg"
 
 
 print "Image Link: " + get_image(src)
