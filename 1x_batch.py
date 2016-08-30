@@ -49,9 +49,6 @@ while 1:
         with open(imageName,'wb') as f:
             f.write(requests.get(src).content)
             f.close()
-        #with open(imageName,'rb') as image:
-            #if(imageSize(src)>1000):
-                #print "image %d Deleted" % imageNo
                 
         
 
