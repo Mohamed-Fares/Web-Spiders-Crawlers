@@ -1,5 +1,5 @@
 """
-Description: Python web spider script to get the HD image from 1x.com website
+Description: Python web spider script to get the HD images from 1x.com website
 Author: Mohamed Abuelanin
 Contact : mohamed.abuelanin@gmail.com
 """
